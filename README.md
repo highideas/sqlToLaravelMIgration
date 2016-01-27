@@ -1,1 +1,1 @@
-# sqlToLaravelMIgration
+# sqlToLaravelMigration
